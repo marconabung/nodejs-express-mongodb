@@ -21,7 +21,7 @@ git clone https://github.com/marconabung/nodejs-express-mongodb.git
 After cloning the project, it should be available for editing on your local ,machine. Locate the file and change your directory.
 
 ```bash
-cd ~/path/to/local/directory/pmsbknd-api
+cd ~/path/to/src/
 ```
 
 ###### Install required packages
